@@ -3,9 +3,9 @@
 import angular from 'angular';
 import uirouter from 'angular-ui-router'
 
-import core from './src/core/core.module';
+import features from './features';
 
 angular.module('app', [
     uirouter,
-    core
+    features.name
 ]);
