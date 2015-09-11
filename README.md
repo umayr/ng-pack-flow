@@ -1,9 +1,6 @@
 # Angular 1.x WebPack + Babel workflow
 
-[![Dependency Status](https://david-dm.org/Foxandxss/angular-webpack-workflow/status.svg)](https://david-dm.org/Foxandxss/angular-webpack-workflow#info=dependencies) [![devDependency Status](https://david-dm.org/Foxandxss/angular-webpack-workflow/dev-status.svg)](https://david-dm.org/Foxandxss/angular-webpack-workflow#info=devDependencies)
-
 This workflow serves as a starting point for building Angular 1.x applications using WebPack.
-
 It is a direct port of the amazing [react workflow](https://github.com/cesarandreu/web-app) of [Cesar Andreu](https://github.com/cesarandreu). All the credits goes for him.
 
 ## Features
@@ -38,6 +35,3 @@ All scripts are run with `npm run [script]`, for example: `npm run test`.
 
 See what each script does by looking at the `scripts` section in [package.json](./package.json).
 
-## Example
-
-To see how to structure an Angular 1.x application using this workflow, please check [this demo](https://github.com/Foxandxss/GermanWords-ng1-webpack).
