@@ -19,7 +19,7 @@ It is a direct port of the amazing [react workflow](https://github.com/cesarandr
 To use it, just clone this repo and install the npm dependencies:
 
 ```shell
-$ git clone https://github.com/Foxandxss/angular-webpack-workflow my_app
+$ git clone https://github.com/umayr/ng-pack-flow my_app
 $ cd my_app
 $ npm install
 ```
@@ -34,4 +34,3 @@ All scripts are run with `npm run [script]`, for example: `npm run test`.
 * `test:live` - continuously run unit tests watching for changes
 
 See what each script does by looking at the `scripts` section in [package.json](./package.json).
-

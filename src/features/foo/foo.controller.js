@@ -1,15 +1,8 @@
-/**
- * Created by umayr.shahid on 9/11/2015.
- */
-
 'use strict';
+import './foo.scss';
 
-export default class Foo {
+export default class FooController {
     constructor() {
         this.name = 'foo';
-    }
-
-    action() {
-        alert(this.name);
     }
 }
